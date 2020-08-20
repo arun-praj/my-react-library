@@ -15,7 +15,7 @@ export const Dropdown = (props) => {
    );
 };
 
-export const Dropgroups = (props) => {
+export const Dropgroup = (props) => {
    return <div className='dropdown__group'>{props.children}</div>;
 };
 export const DropLink = (props) => {
