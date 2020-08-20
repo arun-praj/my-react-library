@@ -14,6 +14,7 @@ Clone only Dropdown branch into your Components folder <br/>
 `git clone --branch Dropdown https://github.com/arun-praj/my-react-library.git`
 - Example
 - > clone in path /component/UI/
+<br/>
 | Component | Props | Description |
 | ----------- | ---------- |-------------|
 | Dropdown | botton | |
