@@ -10,12 +10,17 @@
 
 ### Usuage
 
-Clone only Dropdown branch into your Components folder
+Clone only Dropdown branch into your Components folder <br/>
 `git clone --branch Dropdown https://github.com/arun-praj/my-react-library.git`
-| Component | Props | Description |
+- Example
+ > clone in path /component/UI/
+<br/>
+
+
+| Component   |  Props.    | Description |
 | ----------- | ---------- |-------------|
 | Dropdown | botton | |
-| Dropgroups | - | Groups links |
+| Dropgroup | - | Groups links |
 | DropLink | value[String], to[String/path],style[Object],onClick[function] |Links |
 
 ### Example
