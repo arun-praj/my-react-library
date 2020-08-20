@@ -16,7 +16,7 @@ Clone only Dropdown branch into your Components folder
 | ----------- | ---------- |-------------|
 | Dropdown | botton | |
 | Dropgroups | - | Groups links |
-| DropLink | value, to |Links |
+| DropLink | value[String], to[String/path],style[Object],onClick[function] |Links |
 
 ### Example
 
