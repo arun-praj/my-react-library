@@ -20,7 +20,7 @@ Clone only Dropdown branch into your Components folder <br/>
 | Component   |  Props.    | Description |
 | ----------- | ---------- |-------------|
 | Dropdown | botton | |
-| Dropgroups | - | Groups links |
+| Dropgroup | - | Groups links |
 | DropLink | value[String], to[String/path],style[Object],onClick[function] |Links |
 
 ### Example
