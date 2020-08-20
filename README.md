@@ -10,7 +10,7 @@
 
 ### Usuage
 
-Clone only Dropdown branch into your Components folder
+Clone only Dropdown branch into your Components folder \n
 `git clone --branch Dropdown https://github.com/arun-praj/my-react-library.git`
 | Component | Props | Description |
 | ----------- | ---------- |-------------|
